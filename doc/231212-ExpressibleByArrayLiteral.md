@@ -108,10 +108,7 @@ let alphabet: Alphabet = Array<Character>(["a"])
 끝~~
 
 # Reference
-[ExpressibleByArrayLiteral | Apple Developer Documentation](https://developer.apple.com/documentation/swift/expressiblebyarrayliteral)
-
-[CompilerProtocols.swift](https://github.com/apple/swift/blob/main/stdlib/public/core/CompilerProtocols.swift)
-
-[Array.swift](https://github.com/apple/swift/blob/main/stdlib/public/core/Array.swift)
-
-[Set.swift](https://github.com/apple/swift/blob/main/stdlib/public/core/Set.swift)
+[ExpressibleByArrayLiteral | Apple Developer Documentation](https://developer.apple.com/documentation/swift/expressiblebyarrayliteral)  
+[CompilerProtocols.swift](https://github.com/apple/swift/blob/main/stdlib/public/core/CompilerProtocols.swift)  
+[Array.swift](https://github.com/apple/swift/blob/main/stdlib/public/core/Array.swift)  
+[Set.swift](https://github.com/apple/swift/blob/main/stdlib/public/core/Set.swift)  
