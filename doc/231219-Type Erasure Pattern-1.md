@@ -84,3 +84,5 @@ Existential Type은 value level 추상화라고 했죠?
 따라서 associatedtype이 있는 Protocol은 Existential Type으로 사용할 수 없는 것입니다. (Swift는 타입에 엄격하기 때문!)
 
 너무 길어져서 Type Erasure Pattern 다음 아티클에서 마저 알아봅시다!
+
+[2편](https://github.com/lxodud/UnderTheSwift/blob/main/doc/231231-Type%20Erasure%20Pattern-2.md)
